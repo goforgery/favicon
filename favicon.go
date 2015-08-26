@@ -1,4 +1,4 @@
-package stackr
+package favicon
 
 import (
 	"crypto/md5"
