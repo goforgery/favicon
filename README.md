@@ -1,8 +1,12 @@
-# static
+# favicon
 
 [![Build Status](https://secure.travis-ci.org/goforgery/favicon.png?branch=master)](http://travis-ci.org/goforgery/favicon)
 
 Favicon server for Forgery2.
+
+## Install
+
+	go get github.com/goforgery/favicon
 
 ## Use
 
